@@ -17,7 +17,7 @@ mod=a%b
 print(f"modulo is {mod}") 
 a = int(input()) 
 b = int(input())
-
+```
 ## Output
 ![image](https://github.com/user-attachments/assets/1f6b8ff8-89d3-4097-aaf9-18e3c03bbff4)
 
